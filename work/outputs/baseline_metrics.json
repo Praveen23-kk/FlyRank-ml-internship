@@ -1,0 +1,20 @@
+{
+  "dataset_rows": 30000,
+  "base_decline_rate": 0.5420666666666667,
+  "precision_at_10": 0.2,
+  "precision_at_20": 0.35,
+  "precision_at_50": 0.34,
+  "precision_at_100": 0.38,
+  "max_score": 0.9411888493764173,
+  "median_score": 0.4428606438441044,
+  "signal_verdicts": {
+    "staleness_vs_decline": "CONFIRMED",
+    "position_vs_ctr": "CONFIRMED"
+  },
+  "score_weights": {
+    "visibility_score": 0.4,
+    "freshness_risk_score": 0.3,
+    "position_opportunity_score": 0.25,
+    "depth_gap_score": 0.05
+  }
+}
